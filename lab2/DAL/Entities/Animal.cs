@@ -11,7 +11,6 @@ public abstract class Animal
     private int _feedingsToday = 0;
     private int _hoursSinceLastFeed = 0;
 
-    // Observer: події які генерує тварина
     public event EventHandler<AnimalHungryEventArgs>? BecameHungry;
     public event EventHandler<AnimalDiedEventArgs>? Died;
 

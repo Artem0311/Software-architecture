@@ -1,7 +1,6 @@
 namespace BLL.Observers;
 using DAL.Events;
 
-// Observer: цей клас спостерігає за твариною і виводить повідомлення
 public class HungerNotifier
 {
     private readonly string _ownerName;
