@@ -1,0 +1,14 @@
+/home/temandro/University/Semester_4/APPZ/lab1/bin/Debug/net10.0/lab1
+/home/temandro/University/Semester_4/APPZ/lab1/bin/Debug/net10.0/lab1.deps.json
+/home/temandro/University/Semester_4/APPZ/lab1/bin/Debug/net10.0/lab1.runtimeconfig.json
+/home/temandro/University/Semester_4/APPZ/lab1/bin/Debug/net10.0/lab1.dll
+/home/temandro/University/Semester_4/APPZ/lab1/bin/Debug/net10.0/lab1.pdb
+/home/temandro/University/Semester_4/APPZ/lab1/obj/Debug/net10.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/temandro/University/Semester_4/APPZ/lab1/obj/Debug/net10.0/lab1.AssemblyInfoInputs.cache
+/home/temandro/University/Semester_4/APPZ/lab1/obj/Debug/net10.0/lab1.AssemblyInfo.cs
+/home/temandro/University/Semester_4/APPZ/lab1/obj/Debug/net10.0/lab1.csproj.CoreCompileInputs.cache
+/home/temandro/University/Semester_4/APPZ/lab1/obj/Debug/net10.0/lab1.dll
+/home/temandro/University/Semester_4/APPZ/lab1/obj/Debug/net10.0/refint/lab1.dll
+/home/temandro/University/Semester_4/APPZ/lab1/obj/Debug/net10.0/lab1.pdb
+/home/temandro/University/Semester_4/APPZ/lab1/obj/Debug/net10.0/lab1.genruntimeconfig.cache
+/home/temandro/University/Semester_4/APPZ/lab1/obj/Debug/net10.0/ref/lab1.dll
